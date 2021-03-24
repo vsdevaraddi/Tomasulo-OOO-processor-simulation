@@ -1,0 +1,10 @@
+Clock_duration = 10**-6
+ROB_LENGTH = 8
+add_sub_station = 3
+mul_div_station = 2
+lw_sw_station = 3
+Number_of_instructions = 7
+lw_latency = 5
+add_sub_latency = 1
+mul_latency = 10
+div_latency = 40

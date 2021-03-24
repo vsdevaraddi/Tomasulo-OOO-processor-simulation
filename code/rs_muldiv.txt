@@ -1,0 +1,2 @@
+{ "1" : {"instruction":"", "busy" : 0, "destination_tag":"", "source_tag1":"", "source_tag2":"", "value1": 0, "value2":0 , "pc":0},
+"2" : {"instruction":"", "busy" : 0, "destination_tag":"", "source_tag1":"", "source_tag2":"", "value1": 0, "value2":0, "pc":0 }}

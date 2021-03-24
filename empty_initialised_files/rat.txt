@@ -1,0 +1,10 @@
+{ "r1" : {"valid" : 0, "busy" : 0, "value" : 0 , "tag" : ""},
+"r2" : {"valid" : 0, "busy" : 0, "value" : 0 , "tag" : ""},
+"r3" : {"valid" : 0, "busy" : 0, "value" : 0 , "tag" : ""},
+"r4" : {"valid" : 0, "busy" : 0, "value" : 0 , "tag" : ""},
+"r5" : {"valid" : 0, "busy" : 0, "value" : 0 , "tag" : ""},
+"r6" : {"valid" : 0, "busy" : 0, "value" : 0 , "tag" : ""},
+"r7" : {"valid" : 0, "busy" : 0, "value" : 0 , "tag" : ""},
+"r8" : {"valid" : 0, "busy" : 0, "value" : 0 , "tag" : ""},
+"r9" : {"valid" : 0, "busy" : 0, "value" : 0 , "tag" : ""},
+"r10" : {"valid" : 0, "busy" : 0, "value" : 0 , "tag" : ""}}

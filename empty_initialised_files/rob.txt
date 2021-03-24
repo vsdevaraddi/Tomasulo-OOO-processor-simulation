@@ -1,0 +1,8 @@
+{"rob1" : {"InstType" : "", "destination" : "", "valid" : 0, "value" : 0, "pc":0},
+"rob2" : {"InstType" : "", "destination" : "", "valid" : 0, "value" : 0, "pc":0},
+"rob3" : {"InstType" : "", "destination" : "", "valid" : 0, "value" : 0, "pc":0},
+"rob4" : {"InstType" : "", "destination" : "", "valid" : 0, "value" : 0, "pc":0},
+"rob5" : {"InstType" : "", "destination" : "", "valid" : 0, "value" : 0, "pc":0},
+"rob6" : {"InstType" : "", "destination" : "", "valid" : 0, "value" : 0, "pc":0},
+"rob7" : {"InstType" : "", "destination" : "", "valid" : 0, "value" : 0, "pc":0},
+"rob8" : {"InstType" : "", "destination" : "", "valid" : 0, "value" : 0, "pc":0}}
